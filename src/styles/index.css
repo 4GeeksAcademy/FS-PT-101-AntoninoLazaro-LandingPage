@@ -10,7 +10,10 @@
 
 */
 .heroClas{
-    background-image: url('https://mdbcdn.b-cdn.net/img/new/slides/041.webp');
+    background-image: url('https://wallpapers.com/images/hd/beautiful-mountain-pictures-1920-x-1080-swjdkrab3e0k7dq6.jpg');
     height: 300px;
     width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
